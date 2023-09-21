@@ -40,3 +40,11 @@ https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-sta
 https://learn.microsoft.com/en-us/aspnet/web-api/overview/older-versions/using-web-api-1-with-entity-framework-5/using-web-api-with-entity-framework-part-6
 
 https://medium.com/@niteshsinghal85/reducing-code-with-generic-repository-pattern-in-asp-net-core-api-ba611f7c4ab2
+
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.update?view=efcore-7.0
+
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.remove?view=efcore-7.0
+
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.savechanges?view=efcore-7.0
+
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.add?view=efcore-7.0
