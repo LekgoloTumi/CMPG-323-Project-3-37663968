@@ -48,3 +48,9 @@ https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcon
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.savechanges?view=efcore-7.0
 
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext.add?view=efcore-7.0
+
+https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/
+
+https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview
